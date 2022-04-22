@@ -1,0 +1,14 @@
+uuid: fc1b39f9-e4e4-4ad5-b474-6a4022f84e76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jason@kanopistudios.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
