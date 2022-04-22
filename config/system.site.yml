@@ -3,8 +3,8 @@ _core:
 langcode: en
 uuid: 0e943529-8ade-4c8b-ba7b-10bc149ea154
 name: savinod9
-mail: jason@kanopistudios.com
-slogan: ''
+mail: jasonrsavino@gmail.com
+slogan: 'Starter Drupal 9 Demo Site'
 page:
   403: ''
   404: ''
