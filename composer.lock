@@ -1760,16 +1760,16 @@
         },
         {
             "name": "drupal/drupal-driver",
-            "version": "v2.1.1",
+            "version": "v2.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jhedstrom/DrupalDriver.git",
-                "reference": "a33cb7618476997e1b7330ae9225c91cbab32e1c"
+                "reference": "f60c4f6b4abb0b6e4882c95f1368997b78959ee3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jhedstrom/DrupalDriver/zipball/a33cb7618476997e1b7330ae9225c91cbab32e1c",
-                "reference": "a33cb7618476997e1b7330ae9225c91cbab32e1c",
+                "url": "https://api.github.com/repos/jhedstrom/DrupalDriver/zipball/f60c4f6b4abb0b6e4882c95f1368997b78959ee3",
+                "reference": "f60c4f6b4abb0b6e4882c95f1368997b78959ee3",
                 "shasum": ""
             },
             "require": {
@@ -1812,9 +1812,15 @@
             ],
             "support": {
                 "issues": "https://github.com/jhedstrom/DrupalDriver/issues",
-                "source": "https://github.com/jhedstrom/DrupalDriver/tree/v2.1.1"
+                "source": "https://github.com/jhedstrom/DrupalDriver/tree/v2.1.2"
             },
-            "time": "2021-05-07T20:47:33+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/jhedstrom",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-04-25T20:32:14+00:00"
         },
         {
             "name": "drush-ops/behat-drush-endpoint",
@@ -3119,7 +3125,7 @@
         },
         {
             "name": "pantheon-upstreams/upstream-configuration",
-            "version": "dev-main",
+            "version": "dev-master",
             "dist": {
                 "type": "path",
                 "url": "upstream-configuration",
@@ -10476,5 +10482,5 @@
     "platform-overrides": {
         "php": "7.4"
     },
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.2.0"
 }
